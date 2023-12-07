@@ -1,0 +1,19 @@
+Lista de materiales:
+-----------------------------
+cant     descripcion
+-----    -------------
+1        chapa cerradura de 12voltios
+1        circuito ttl 74LS85
+1        REGULADOR 7805
+1        DIP de 4 swtich
+4        interruptores de 2 posiciones y 3 pines, tamaño pequeño
+1        transistor BC548
+1        mosfet irfz44
+1        buzzer activo 12v
+2        diodos LED: rojo y verde 5mm
+2        diodos comun 1N4007
+8        resistencias 1k 1/4w
+2        resistencias 470 ohm 1/4w
+1        pulsador, 4 pines DOBLE CONTACTO
+1        plug dc hembra para cargador
+1        cargador 12v, 1 amp con plug DC macho
